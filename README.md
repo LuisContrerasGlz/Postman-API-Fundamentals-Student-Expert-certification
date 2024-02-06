@@ -19,3 +19,13 @@ According to the API documentation, you can get all the books in the library by 
 - Generating code
 
 ![Screenshot Index](./certification.png)
+
+#### Usage 
+
+1. Clone the Repository
+2. Open Postman:
+3. Import the Collection: 
+- Open Postman.
+- Click on "Import" in the top left corner.
+- Choose the exported JSON file in the postman_collection directory.
+4. Run Requests in Postman and observe the responses.
